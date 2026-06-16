@@ -10,8 +10,8 @@
 
 ## Install
 [Download `CrosshairX.zip`](https://github.com/Kaushal-Parmar/CrosshairX/releases/download/03.06.2026/CrosshairX.zip)
-
 ---
+
 <img width="1349" height="820" alt="image" src="https://github.com/user-attachments/assets/ba527e57-3e71-421e-a01b-5af909022c7b" />
 
 ---
