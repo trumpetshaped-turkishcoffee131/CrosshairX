@@ -6,7 +6,7 @@
 
 **CrosshairX** is a lightweight, customizable crosshair overlay for FPS games. Perfect for Valorant, CS2, Apex Legends, Fortnite, and more. Create, edit, and use professional custom crosshairs with fullscreen support, center pointer, and community designs.
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/b543444e-dffe-42cf-9f6d-4b5886cf57f8" />
+<img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/b543444e-dffe-42cf-9f6d-4b5886cf57f8" />
 
 ## Install
 [Download `CrosshairX.zip`](https://github.com/Kaushal-Parmar/CrosshairX/releases/download/03.06.2026/CrosshairX.zip)
